@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(IMAGE/bg02.jpg);
+    color: beige;
+    margin: 20px;
+    padding: 20px;
+}
+
+a {
+    color: bisque;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+ul {
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+img {
+    margin: 10px;
+    border: solid 3px whitesmoke;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    border: solid 3px black;
+}
+
+label {
+    font-size: 18px;
+    color: beige;
+}
+
+p {
+    font-size: 20px;
+    color: burlywood;
+    margin: 10px;
+    padding: 10px;
+}
+
+iframe {
+    margin: 15px;
+    padding: 20px;
+
+}
+
